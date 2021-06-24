@@ -43,5 +43,4 @@ node.js実行環境はあらかじめ用意しておく。
 % npx http-server
 ```
 
-http://localhost:8080/　をブラウザで開く。
-「Hello, World!」が表示されればOK。
+<http://localhost:8080/> をブラウザで開く。「Hello, World!」が表示されればOK。
